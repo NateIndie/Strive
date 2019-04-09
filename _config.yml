@@ -14,3 +14,5 @@ github_username:  nateindie
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-hacker
