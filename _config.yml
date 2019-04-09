@@ -11,6 +11,7 @@ email: nateindie@yahoo.com
 description: New Zealand indie developer
 twitter_username: nateindie
 github_username:  nateindie
+baseurl: "strive"
 
 # Build settings
 markdown: kramdown
