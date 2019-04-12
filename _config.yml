@@ -1,14 +1,14 @@
-title: John Smith
+title: Nathan Barnes
 description: My Personal Blog
-author: John Smith
+author: Nathan Barnes
 logo: /Strive/static/img/avatar.png
 github: https://github.com/codeasashu
-about: Freelance developer
+about: Freelance Developer
 
 baseurl: "/Strive/"
 url: ""
 
-allowsearch: 
+allowsearch: false
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
